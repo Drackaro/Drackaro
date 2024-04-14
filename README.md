@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Computer Science student on University of Havana.
+
 <!--
 **Drackaro/Drackaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
